@@ -1,5 +1,16 @@
+body {
+    background-color: rgb(207, 250, 207);
+}
+
+.navstyle {
+    background-color: rgb(146, 236, 151);
+}
+
+.textstyle {
+    margin-top: 50px;
+}
+
 .behind {
-    background-color: blanchedalmond;
     background: no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;

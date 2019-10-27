@@ -77,7 +77,7 @@ The design for having all text information in the middle was an inspiration from
 The logo on the index page is the real logo for Vallentuna badminton and I have their permission to use it as this is an example for how their website could look, original website: http://www.vallentunabadminton.se/
 The text is also from Vallentuna badmintons original site and it is a work in progress as I'm still waiting for them to go over what they want their website to say.
 All contact info are just examples because they didn't want their email and phone numbers to be part of my project for codeinstitute.
-
+The footer is inspired by my lessons at codeinstitute vid the styling with classes and css.
 Content
 The text for section Y was copied from the Wikipedia article Z
 Media

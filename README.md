@@ -44,23 +44,9 @@ They helped a lot in finding different things that didn't work and helped me see
 I have tested the inputs that a user could make and they all funtcion as intended.
 The menu both in desktop and mobile works and takes the user to the desired detination.
 The form will tell the user if a field is empty and the button works, but I havn't implemented a function to send it anywhere.
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+I changed something in the CSS file and suddenly my page didn't take up the entire screen for desktop. 
+In the mobile version I wasn't able to select contact or gallery anymore.
+When the page content is on the same level as the dropdown menu the user can't click it anymore.
 
 Deployment
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
@@ -82,6 +68,6 @@ All contact info are just examples because they didn't want their email and phon
 The footer is inspired by my lessons at codeinstitute vid the styling with classes and css.
 I have taken the form design for both mobile and desktop for the form in kontakt from codeinstitute.
 
-
-
-
+I did some last minute change and it changed the whole website... 
+If you run it for desktop you can access everything and the only problem is that the pages doesn't take up the viewport height... 
+If you run it for mobile you can only access the homepage and the times and mebership fee page... but they show as intended and the user can access the information.

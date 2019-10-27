@@ -41,7 +41,9 @@ Testing
 My testing is conducted by the management team for the badminton club. I gave them a copy of the code for the website and they used it as "new users" and old users.
 They helped a lot in finding different things that didn't work and helped me see where things could go wrong if a user clicked on something. 
 
-HÄR MÅSTE JAG FYLLA PÅ MED INFORMATION!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+I have tested the inputs that a user could make and they all funtcion as intended.
+The menu both in desktop and mobile works and takes the user to the desired detination.
+The form will tell the user if a field is empty and the button works, but I havn't implemented a function to send it anywhere.
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 

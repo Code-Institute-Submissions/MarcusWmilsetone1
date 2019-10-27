@@ -49,14 +49,7 @@ In the mobile version I wasn't able to select contact or gallery anymore.
 When the page content is on the same level as the dropdown menu the user can't click it anymore.
 
 Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
+I deployed my page to Github pages. I had to make a new file with a small i instead of a big I in the index.hmtl file because github pages didn't recognize it with a big I. The page loads, but the link back to the index page when you press Vallentuna badminton in the navbar doesn't work on the depleyed site, but it works in my own local file when I run it localy.
 
 Credits
 I was inspired by codeintitutes lessons and tried to make a navbar that looked alot like the one in some of the lessons.
@@ -71,3 +64,4 @@ I have taken the form design for both mobile and desktop for the form in kontakt
 I did some last minute change and it changed the whole website... 
 If you run it for desktop you can access everything and the only problem is that the pages doesn't take up the viewport height... 
 If you run it for mobile you can only access the homepage and the times and mebership fee page... but they show as intended and the user can access the information.
+

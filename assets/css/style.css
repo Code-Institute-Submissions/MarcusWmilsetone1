@@ -1,3 +1,5 @@
+
+/*--------------------------------------------------Overall */
 body {
     background-color: rgb(207, 250, 207);
 }
@@ -17,6 +19,22 @@ body {
     background-size: cover;
 }
 
+/*----------------------------------------------------Footer */
+.footerstyle {
+    background-color: rgb(146, 236, 151);
+    position: absolute;
+    height: 125px;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer-contact {
+    display: inline-block;
+    text-align: left;
+    margin: 10px 20px;
+}
+
+/*----------------------------------------------------Gallery */
 .imageholder {
     display: block;
     margin-top: 50px;

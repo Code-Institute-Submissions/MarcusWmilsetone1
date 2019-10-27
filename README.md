@@ -71,16 +71,15 @@ Separate git branch?
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
 Credits
-I was inspired by codeintitutes lessons and tryied to make a navbar that looked alot like the one in some of the lessons.
+I was inspired by codeintitutes lessons and tried to make a navbar that looked alot like the one in some of the lessons.
 The pictures are taken from https://unsplash.com/s/photos/badminton because I wasn't allowed to use the images from our badminton club.
 The design for having all text information in the middle was an inspiration from facebooks design with having all information there and because in the lessons I was told it was a nice way to display text.
 The logo on the index page is the real logo for Vallentuna badminton and I have their permission to use it as this is an example for how their website could look, original website: http://www.vallentunabadminton.se/
 The text is also from Vallentuna badmintons original site and it is a work in progress as I'm still waiting for them to go over what they want their website to say.
 All contact info are just examples because they didn't want their email and phone numbers to be part of my project for codeinstitute.
 The footer is inspired by my lessons at codeinstitute vid the styling with classes and css.
-Content
-The text for section Y was copied from the Wikipedia article Z
-Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
+I have taken the form design for both mobile and desktop for the form in kontakt from codeinstitute.
+
+
+
+

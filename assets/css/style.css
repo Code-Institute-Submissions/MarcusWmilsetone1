@@ -28,10 +28,12 @@
 .footerstyle {
     background-color: rgb(146, 236, 151);
     position: relative;
+    margin-top: 50px;
 }
 
 .inline-block {
     display: inline-block;
+    margin: 5px;
 }
 
 /*----------------------------------------------------Gallery */
